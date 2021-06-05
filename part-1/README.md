@@ -1,6 +1,6 @@
 # Crack the React Interviews By Using Mindmap - Part 1.
 
-This is the first part in my series (__Crach the React Interviews Using Mindmap__). My series will give you the answers about different React interview questions by using mindmap. Mindmap is a technique that help you remember things easier. It is used by many memory championships, professors, valedictorians and so on. 
+This is the first part in my series (__Crack the React Interviews Using Mindmap__). My series will give you the answers about different React interview questions by using mindmap. Mindmap is a technique that help you remember things easier. It is used by many memory championships, professors, valedictorians and so on. 
 
 By applying mindmap, my series will give you the key points for each answer. Hence, you can understand the answer and explain in your React interviews.
 
