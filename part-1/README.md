@@ -24,7 +24,7 @@ I created a git repository that help you crack the React interviews by using min
 >
 > https://dev.to/hieptl/series/13039
 >
-> __3. Some Mistakes When Using This Keyword in Javascript and Solutions__
+> __3. Some Mistakes When Using "This" Keyword in Javascript and Solutions__
 >
 > https://dev.to/hieptl/some-mistakes-when-using-this-keyword-in-javascript-and-solutions-4j77
 >
