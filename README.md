@@ -14,7 +14,6 @@ I am writing the next parts for the series. You just need to follow my series an
 
 My series about __Crack the React Interviews By Using Mindmap__ on Dev.to: https://dev.to/hieptl/series/13102
 
-
 > If the repository is useful, please help me share the repository and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
 > I also created some series that help you improve your practical skills:

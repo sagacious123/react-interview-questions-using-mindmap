@@ -10,12 +10,8 @@ By applying mindmap, my series will give you the key points for each answer. Hen
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚.
 
-I created a git repository that help you crack the React interviews by using mindmap.
+My post about __Crack the React Interviews by Using Mindmap - Part 1__ on Dev.to: https://dev.to/hieptl/crack-the-react-interviews-by-using-mindmap-part-1-5gkd
 
-> Github link: 
->
-> https://github.com/hieptl/react-interview-questions-using-mindmap
-> 
 > If the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
 > I also created some series that help you improve your practical skills: 
