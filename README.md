@@ -10,12 +10,12 @@ By applying mindmap, my series will give you the key points for each answer. Hen
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚.
 
-I am writing the next parts for the series. You just need to follow my series and we will crack the React interviews together :heart:
+I am writing the next parts for the series. You just need to follow my series and we will crack the React interviews together
 
 My series about __Crack the React Interviews By Using Mindmap__ on Dev.to: https://dev.to/hieptl/series/13102
 
 
-> If the repository is useful, please help me share the repository and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community :heart:.
+> If the repository is useful, please help me share the repository and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
 > I also created some series that help you improve your practical skills:
 >
@@ -51,4 +51,4 @@ My series about __Crack the React Interviews By Using Mindmap__ on Dev.to: https
 |1  | [Crack the React Interviews By Using Mindmap - Part 1.](https://github.com/hieptl/react-interview-questions-using-mindmap/tree/main/part-1) |
 |2  | [Crack the React Interviews By Using Mindmap - Part 2.](https://github.com/hieptl/react-interview-questions-using-mindmap/tree/main/part-2) |
 
-I am writing the next parts for the series. You just need to follow my series and we will crack the React interviews together :heart:
+I am writing the next parts for the series. You just need to follow my series and we will crack the React interviews together

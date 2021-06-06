@@ -2,7 +2,7 @@
 
 <img src="../images/crack-the-react-interviews-by-using-mindmap.jpg" alt="crack-the-react-interview-by-using-mindmap"/>
 
-> Click :star: if you like the project. Pull Request are highly appreciate
+> Click :star: if you like the project. Pull Request are highly appreciate :heart:
 
 This is the second part in my series (__Crack the React Interviews Using Mindmap__). My series will give you the answers about different React interview questions by using mindmap. Mindmap is a technique that help you remember things easier. It is used by many memory championships, professors, valedictorians and so on.
 
@@ -16,7 +16,7 @@ I created a git repository that help you crack the React interviews by using min
 >
 > https://github.com/hieptl/react-interview-questions-using-mindmap
 >
-> If the repository is useful, please help me share the post and give me a Github's star. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community :heart:.
+> If the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
 > I also created some series that help you improve your practical skills:
 >
@@ -358,7 +358,7 @@ function Movies({movies}) {
 
 Figure 20. Crack the React Interview by Using Mindmap - Question 20.
 
-This is the end of the second part. I am writing the next parts, you just need to follow my series and we will crack the React interviews together :smile: :heart:
+This is the end of the second part. I am writing the next parts, you just need to follow my series and we will crack the React interviews together.
 
 Thanks and Best Regards, \
 Hiep.
